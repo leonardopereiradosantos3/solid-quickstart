@@ -4,8 +4,9 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>asdsad</Title>
-      <h1>teste</h1>
+      <meta http-equiv="refresh" content="0; URL='https://google.com/'"/>
+      <Title>atendimento</Title>
+      <h1>Online</h1>
       <Counter />
       <p>
         Visit{" "}
